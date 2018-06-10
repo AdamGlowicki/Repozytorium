@@ -1,0 +1,24 @@
+*   [33mcommit bc4a5e3bf25723f9d673eebbbdc84c062082c436[m
+[31m|[m[32m\[m  Merge: 18587b0 80a8215
+[31m|[m [32m|[m Author: Adam Glowicki <adamglowicki@wp.pl>
+[31m|[m [32m|[m Date:   Sun Jun 10 09:02:02 2018 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     XMerge branch 'branch_A'
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit 80a8215a58fdae377aa6ac3f911becafd7e39e29[m
+[31m|[m [32m|[m Author: Adam Glowicki <adamglowicki@wp.pl>
+[31m|[m [32m|[m Date:   Sun Jun 10 08:39:42 2018 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     commit
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit 18587b0052afca7666c60eddecdc6fe04aa48a23[m
+[32m|[m[32m/[m  Author: Adam Glowicki <adamglowicki@wp.pl>
+[32m|[m   Date:   Sun Jun 10 09:01:03 2018 +0200
+[32m|[m   
+[32m|[m       index
+[32m|[m  
+* [33mcommit d21990da2cf4ef270441c1b3535f81206c43e813[m
+  Author: Adam Glowicki <adamglowicki@wp.pl>
+  Date:   Sun Jun 10 08:31:59 2018 +0200
+  
+      sth
